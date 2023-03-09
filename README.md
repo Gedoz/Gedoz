@@ -1,5 +1,7 @@
 ### Dale!
 
+# Me chamo Gustavo e atuo principalmente com Front-end!
+
 ## Ferramentas e Tecnologias
 
 <div>  
