@@ -1,6 +1,6 @@
-### Dale!
+# Dale!
 
-# Me chamo Gustavo e atuo principalmente com Front-end!
+### Me chamo Gustavo e atuo principalmente com Front-end!
 
 ## Ferramentas e Tecnologias
 
