@@ -6,9 +6,9 @@ Buscar sempre proporcionar experiências eficientes que geram resultado para meu
 
 <div>
     <a href="https://www.yourway.digital" target="_blank">
-    <img src="https://www.yourway.digital/logo-icon.svg" width="160" height="160"/>
+        <img src="https://www.yourway.digital/logo-icon.svg" width="90" height="52"/>
     </a>
-  </div>
+</div>
 
 ## Ferramentas e Tecnologias
 
