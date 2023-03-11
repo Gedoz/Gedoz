@@ -5,7 +5,9 @@ Buscar sempre proporcionar experiências eficientes que geram resultado para meu
 ## Empresa
 
 <div>
-    <img src="https://www.yourway.digital/logo-icon.svg" width="40" height="40"/>
+    <a href="https://www.yourway.digital" target="_blank">
+    <img src="https://www.yourway.digital/logo-icon.svg" width="160" height="160"/>
+    </a>
   </div>
 
 ## Ferramentas e Tecnologias
