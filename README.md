@@ -1,6 +1,12 @@
 # Dale!
 
-### Me chamo Gustavo e atuo principalmente com Front-end!
+Buscar sempre proporcionar experiências eficientes que geram resultado para meus clientes, mostrar como o Design UX e os sistemas convencionais podem ser aliados, tornando esse mercado cada vez mais amplo e usual para o usuário.
+
+## Empresa
+
+<div>
+    <img src="https://www.yourway.digital/logo-icon.svg" width="40" height="40"/>
+  </div>
 
 ## Ferramentas e Tecnologias
 
