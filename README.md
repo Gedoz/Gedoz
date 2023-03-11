@@ -4,6 +4,8 @@ Buscar sempre proporcionar experiências eficientes que geram resultado para meu
 
 ## Empresa
 
+Desenvolvemos apps, sites e sistemas sob medida. Contamos sua história através das redes sociais e utilizamos tráfego pago para encontrar seu cliente.
+
 <div>
     <a href="https://www.yourway.digital" target="_blank">
         <img src="https://www.yourway.digital/logo-icon.svg" width="90" height="52"/>
